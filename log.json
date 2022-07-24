@@ -1,0 +1,848 @@
+[
+    {
+      "userSn": 15513,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-06T23:54:25.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15514,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T00:03:57.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15515,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T00:04:36.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15516,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-07T00:06:40.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15517,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-07T00:07:31.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15518,
+      "deviceUserId": "7316",
+      "recordTime": "2022-07-07T00:14:02.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15519,
+      "deviceUserId": "7316",
+      "recordTime": "2022-07-07T00:14:17.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15520,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-07T00:21:33.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15521,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T00:23:14.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15522,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T00:23:34.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15523,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-07T00:23:49.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15524,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-07T00:35:47.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15525,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-07T00:38:16.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15526,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-07T00:59:02.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15527,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-07T00:59:32.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15528,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-07T01:03:15.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15529,
+      "deviceUserId": "7082",
+      "recordTime": "2022-07-07T01:07:30.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15530,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-07T01:12:58.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15531,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-07T01:14:19.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15532,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-07T01:16:16.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15533,
+      "deviceUserId": "7316",
+      "recordTime": "2022-07-07T01:28:05.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15534,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-07T02:55:47.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15535,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T03:00:18.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15536,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T03:00:34.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15537,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T03:00:50.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15538,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-07T03:01:29.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15539,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-07T03:05:09.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15540,
+      "deviceUserId": "7082",
+      "recordTime": "2022-07-07T04:33:27.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15541,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T04:35:06.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15542,
+      "deviceUserId": "7082",
+      "recordTime": "2022-07-07T04:36:53.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15543,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T04:47:53.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15544,
+      "deviceUserId": "7082",
+      "recordTime": "2022-07-07T04:50:27.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15545,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-07T05:00:54.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15546,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-07T05:04:17.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15547,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-07T05:05:03.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15548,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-07T05:55:02.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15549,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-07T06:19:38.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15550,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-07T06:24:46.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15551,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-07T07:13:01.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15552,
+      "deviceUserId": "8398",
+      "recordTime": "2022-07-07T10:09:30.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15553,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-07T19:46:22.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15554,
+      "deviceUserId": "7421",
+      "recordTime": "2022-07-07T20:29:33.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15555,
+      "deviceUserId": "7421",
+      "recordTime": "2022-07-07T20:30:41.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15556,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T20:35:01.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15557,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T20:35:31.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15558,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-07T20:41:46.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15559,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-07T20:58:16.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15560,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-07T21:22:02.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15561,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-07T21:29:51.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15562,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T21:37:21.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15563,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-07T21:39:13.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15564,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T21:49:13.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15565,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-07T22:02:24.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15566,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-07T22:02:58.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15567,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-07T22:04:43.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15568,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-07T22:13:38.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15569,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-07T22:16:59.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15570,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-07T22:18:45.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15571,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-07T22:32:37.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15572,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T22:52:13.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15573,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-07T23:02:54.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15574,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-07T23:05:24.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15575,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-07T23:12:08.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15576,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-07T23:15:02.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15577,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-07T23:38:58.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15578,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-07T23:40:55.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15579,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-07T23:51:58.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15580,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-07T23:55:33.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15581,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-08T00:02:08.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15582,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T00:04:11.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15583,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-08T00:06:09.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15584,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-08T00:09:21.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15585,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T00:11:07.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15586,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-08T00:17:31.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15587,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-08T00:22:29.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15588,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T00:23:48.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15589,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-08T00:26:52.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15590,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T00:28:36.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15591,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-08T00:41:56.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15592,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T00:55:25.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15593,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T00:56:05.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15594,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T00:56:31.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15595,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-08T01:02:15.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15596,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-08T01:02:46.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15597,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-08T01:03:48.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15598,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-08T01:04:08.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15599,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T01:07:27.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15600,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-08T01:07:51.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15601,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-08T01:13:24.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15602,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-08T01:16:56.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15603,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-08T01:27:11.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15604,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-08T01:27:31.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15605,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-08T01:44:28.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15606,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-08T01:45:15.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15607,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-08T01:47:48.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15608,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-08T01:53:31.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15609,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-08T01:54:28.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15610,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T01:54:58.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15611,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-08T01:55:14.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15612,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T01:57:28.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15613,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T02:00:55.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15614,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-08T02:01:10.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15615,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-08T02:04:19.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15616,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-08T02:04:32.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15617,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-08T03:05:21.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15618,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T03:08:36.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15619,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-08T03:08:59.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15620,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-08T03:10:21.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15621,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-08T03:13:06.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15622,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-08T03:14:33.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15623,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-08T03:14:47.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15624,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-08T03:31:28.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15625,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-08T03:34:04.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15626,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-08T04:05:25.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15627,
+      "deviceUserId": "7336",
+      "recordTime": "2022-07-08T04:16:23.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15628,
+      "deviceUserId": "9",
+      "recordTime": "2022-07-08T04:22:34.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15629,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-08T04:23:00.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15630,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-08T04:23:22.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15631,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-08T04:25:09.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15632,
+      "deviceUserId": "8398",
+      "recordTime": "2022-07-08T07:36:26.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15633,
+      "deviceUserId": "6",
+      "recordTime": "2022-07-08T22:19:36.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15634,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-10T19:53:32.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15635,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-10T20:59:52.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15636,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-10T21:10:30.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15637,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-10T21:13:03.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15638,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-10T21:19:41.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15639,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-10T21:21:55.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15640,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-10T21:24:06.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15641,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-10T21:42:59.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15642,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-10T21:55:33.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15643,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-10T22:07:27.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15644,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-10T22:09:20.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15645,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-10T22:42:17.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15646,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-10T22:42:45.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15647,
+      "deviceUserId": "7107",
+      "recordTime": "2022-07-10T22:45:18.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15648,
+      "deviceUserId": "7389",
+      "recordTime": "2022-07-10T22:46:57.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15649,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-10T22:52:12.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15650,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-10T23:21:59.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15651,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-10T23:30:56.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15652,
+      "deviceUserId": "7408",
+      "recordTime": "2022-07-10T23:35:09.000Z",
+      "ip": "192.168.20.11"
+    },
+    {
+      "userSn": 15653,
+      "deviceUserId": "7381",
+      "recordTime": "2022-07-10T23:40:39.000Z",
+      "ip": "192.168.20.11"
+    }
+  ]
